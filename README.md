@@ -30,4 +30,4 @@ This includes:
   - [X] Measuring: The state of qubit is used as a measuring tool when perfoming quantum operations. This manipulation of information is used to inteact with the simulation of quantum systems. 
 
 # Important Directories
-cd /MathLibrary/src/applications: This explores more on the techniques, concepts, and operations pertaining to electrostatics, mechanics, and quantum.  
+- cd /MathLibrary/src/applications: This explores more on the techniques, concepts, and operations pertaining to electrostatics, mechanics, and quantum.  
