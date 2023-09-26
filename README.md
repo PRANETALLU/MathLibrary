@@ -5,7 +5,6 @@ through school and just on my own. Moreover, this is the Kotlin implementation o
 This includes:
 
 - [X] Vector Algebra
-
       There are operations, such as adding, subtracting, multipling, dividing vector coordinate points. Morever, we can
       calculate the angle between the two vector, projection angle, and rejection perspective. 
 - [ ] 
