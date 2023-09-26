@@ -23,7 +23,7 @@ This includes:
   - [X] Complex Matrices: Just like vectors, this involves basic operations, such as adding, subtracting, multiplying, and dividing. Moreover, additional operations could include inversion, transposition, and diagonolization. 
 - [X] Quantum Computing
   - [X] Entangled Qubit States
-  - [X] Quantum Gates
+  - [X] Quantum Gates: They are perceived as logical gates when performing quantum operations. This utilizes matrix as a structure and also blends with vectors in terms of mulitplication. 
   - [X] Quantum Circuits
     - [X] Parallel Gates: This is used to perform quantum operations simulataneously. Quantum algorithms, relying on this method, is usually much faster in terms of performance. 
     - [X] Sequential Gates: Operations are performed one after the another. Indeed, they take a sequential approach. However, this increases the complexity and performs at a higher time complexity. 
