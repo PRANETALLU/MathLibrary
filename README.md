@@ -9,8 +9,8 @@ This includes:
       calculate the angle between the two vector, projection angle, and rejection perspective. 
 - [X] Multivariable Calculus
   - [X] Gradient Descent: It is used to calculate the minimization and maximimzation of functions. It is also known to be measured
-  - [ ] as a slope and heavily utilized in machine learning. The main purpose is to reduce the frequency of errors and work on
-  - [ ] efficiency. 
+  as a slope and heavily utilized in machine learning. The main purpose is to reduce the frequency of errors and work on
+  efficiency. 
 - [X] Basic Linear Algebra
 - [X] Electrostatic Simulations
 - [X] Analytic Transformations
