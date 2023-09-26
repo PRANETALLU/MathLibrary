@@ -11,8 +11,9 @@ This includes:
   - [X] Gradient Descent: It is used to calculate the minimization and maximimzation of functions. It is also known to be measured
   as a slope and heavily utilized in machine learning. The main purpose is to reduce the frequency of errors and work on
   efficiency. 
-- [X] Basic Linear Algebra
-- [X] Electrostatic Simulations
+- [X] Basic Linear Algebra: Linear algebra is mainly based on the foundations of vectors, matrices, eignvectors, and their applications. This projct mainly
+      emphasizes more on operations, transformations, and real-world examples when it comes to coding. 
+- [X] Electrostatic Simulations: This is heavily based on physics concepts and utilizes a model to replicate the electric force and fields of a charged system. 
 - [X] Analytic Transformations
   - [X] Taylor Series
   - [ ] Fourier Series and Transformations
