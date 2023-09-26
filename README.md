@@ -5,13 +5,8 @@ through school and just on my own. Moreover, this is the Kotlin implementation o
 This includes:
 
 - [X] Vector Algebra
-    Function methods:
-    operator fun plus(other: DoubleVector) = super.plus(other).collapseToReal
-    operator fun minus(other: DoubleVector) = super.minus(other).collapseToReal
-    override operator fun times(other: Double) = super.times(other).collapseToReal
-    override operator fun div(other: Double) = super.div(other).collapseToReal
-    operator fun times(other: DoubleVector) = super.times(other).collapseToReal
-    infix fun realDot(other: DoubleVector) = super.realDot(other).collapseToReal
+      There are operations, such as adding, subtracting, multipling, dividing vector coordinate points. Morever, we can
+      calculate the angle between the two vector, projection angle, and rejection perspective. 
 - [ ] 
 - [X] Multivariable Calculus
   - [X] Gradient Descent
