@@ -25,6 +25,6 @@ This includes:
   - [X] Entangled Qubit States
   - [X] Quantum Gates
   - [X] Quantum Circuits
-    - [X] Parallel Gates
+    - [X] Parallel Gates: This is used to perform quantum operations simulataneously. Quantum algorithms, relying on this method, is usually much faster in terms of performance. 
     - [X] Sequential Gates
   - [X] Measuring: The state of qubit is used as a measuring tool when perfoming quantum operations. This manipulation of information is used to inteact with the simulation of quantum systems. 
