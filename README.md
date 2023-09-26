@@ -30,4 +30,6 @@ This includes:
   - [X] Measuring: The state of qubit is used as a measuring tool when perfoming quantum operations. This manipulation of information is used to inteact with the simulation of quantum systems. 
 
 # Important Directories
-- cd /MathLibrary/src/applications: This explores more on the techniques, concepts, and operations pertaining to electrostatics, mechanics, and quantum.  
+- cd /MathLibrary/src/applications: This explores more on the techniques, concepts, and operations pertaining to electrostatics, mechanics, and quantum.
+- cd /MathLibrary/src/core: This dives into into multivariable calculus, linear transformations, vector operations, differential equations, and matrix operations.
+- cd /MathLibrary/src/tests: These compose of unit test cases that validate whether functionalities are working up to their full potential or capabilities. 
