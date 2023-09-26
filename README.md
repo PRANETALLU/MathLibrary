@@ -27,4 +27,4 @@ This includes:
   - [X] Quantum Circuits
     - [X] Parallel Gates
     - [X] Sequential Gates
-  - [X] Measuring
+  - [X] Measuring: The state of qubit is used as a measuring tool when perfoming quantum operations. This manipulation of information is used to inteact with the simulation of quantum systems. 
