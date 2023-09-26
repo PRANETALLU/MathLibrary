@@ -5,8 +5,8 @@ through school and just on my own. Moreover, this is the Kotlin implementation o
 This includes:
 
 - [X] Vector Algebra
-- [ ] Function methods:
-- [ ] operator fun plus(other: DoubleVector) = super.plus(other).collapseToReal
+    Function methods:
+    operator fun plus(other: DoubleVector) = super.plus(other).collapseToReal
     operator fun minus(other: DoubleVector) = super.minus(other).collapseToReal
     override operator fun times(other: Double) = super.times(other).collapseToReal
     override operator fun div(other: Double) = super.div(other).collapseToReal
