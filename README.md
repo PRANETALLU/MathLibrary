@@ -18,7 +18,7 @@ This includes:
   - [X] Taylor Series: The sum of expressions is usually in a series format / quotient. It is also used to calculate the approximation point of a function. 
   - [X] Fourier Series and Transformations: It is used to calculate periodic functions by utilizing the frequences of sin and cos functions. This is mainly used in filtering signals, audio processing, and image modifications. 
 - [X] Complex Algebra
-  - [X] Complex Numbers
+  - [X] Complex Numbers: This involves the operations between real and imaginary numbers. The format is a + bi. a is the real number, b is the complex number, and i is the imaginary number. 
   - [X] Complex Vectors
   - [X] Complex Matrices
 - [X] Quantum Computing
