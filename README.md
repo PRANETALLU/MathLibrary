@@ -16,8 +16,7 @@ This includes:
 - [X] Electrostatic Simulations: This is heavily based on physics concepts and utilizes a model to replicate the electric force and fields of a charged system. 
 - [X] Analytic Transformations
   - [X] Taylor Series: The sum of expressions is usually in a series format / quotient. It is also used to calculate the approximation point of a function. 
-  - [X] Fourier Series and Transformations: It is used to calculate periodic functions by utilizing the frequences of sin and cos functions. This is mainly used in filtering
-        signals, audio processing, and image modifications. 
+  - [X] Fourier Series and Transformations: It is used to calculate periodic functions by utilizing the frequences of sin and cos functions. This is mainly used in filtering signals, audio processing, and image modifications. 
 - [X] Complex Algebra
   - [X] Complex Numbers
   - [X] Complex Vectors
