@@ -32,4 +32,7 @@ This includes:
 # Important Directories
 - cd /MathLibrary/src/applications: This explores more on the techniques, concepts, and operations pertaining to electrostatics, mechanics, and quantum.
 - cd /MathLibrary/src/core: This dives into into multivariable calculus, linear transformations, vector operations, differential equations, and matrix operations.
-- cd /MathLibrary/src/tests: These compose of unit test cases that validate whether functionalities are working up to their full potential or capabilities. 
+- cd /MathLibrary/src/tests: These compose of unit test cases that validate whether functionalities are working up to their full potential or capabilities.
+
+# How do we use the Repository? 
+Since this is a library, it can be incorporated into source folders or used as reference to perform computations. 
