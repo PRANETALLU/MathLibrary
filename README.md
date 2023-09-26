@@ -22,7 +22,7 @@ This includes:
   - [X] Complex Vectors: It is the between the interaction of two vectors, such as u and v. This involves vector operations, which include adding, subtracting, multiplying, dividing, and calculating the dot product. 
   - [X] Complex Matrices: Just like vectors, this involves basic operations, such as adding, subtracting, multiplying, and dividing. Moreover, additional operations could include inversion, transposition, and diagonolization. 
 - [X] Quantum Computing
-  - [X] Entangled Qubit States
+  - [X] Entangled Qubit States: Quantum bits are typically used as a unit of measurement. This also showcases how one quantum unit can be interdependent and this one way significant algorithms can be derived and referenced. 
   - [X] Quantum Gates: They are perceived as logical gates when performing quantum operations. This utilizes matrix as a structure and also blends with vectors in terms of mulitplication. 
   - [X] Quantum Circuits
     - [X] Parallel Gates: This is used to perform quantum operations simulataneously. Quantum algorithms, relying on this method, is usually much faster in terms of performance. 
